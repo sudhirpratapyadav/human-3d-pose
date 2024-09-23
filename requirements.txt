@@ -1,0 +1,7 @@
+mediapipe
+vispy
+tabulate
+pyrealsense2
+scipy
+PyQt5==5.14.1
+opencv-contrib-python==4.10.0.84
